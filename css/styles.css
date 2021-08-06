@@ -16,6 +16,10 @@ body {
   background-color: #edd7c2;
 }
 
+.plaatnamen{
+  color: white;
+}
+
 .despellen {
   padding: 30px;
   background-color: #fff6ed;
@@ -31,6 +35,21 @@ body {
 h1 {
   font-size: 3rem;
   font-family: sans-serif;
+}
+
+.wiewijzijn{
+  width: 80%;
+  text-align: left
+}
+
+.adresje{
+  margin-top: 20px;
+}
+
+.reserveer{
+  margin-top: 20px;
+  text-align: left;
+  width: 400px;
 }
 
 .footer {
@@ -54,6 +73,11 @@ h1 {
   font-size: 25px;
   text-decoration: none;
   font-weight: bold;
+}
+
+.downloadcontainer{
+  width: 400px;
+  text-align: left;
 }
 
 .form-control {
